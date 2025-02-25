@@ -1,0 +1,17 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build directories
+bin/
+target/
+
+# Ignore generated Javadoc documentation
+/doc/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
